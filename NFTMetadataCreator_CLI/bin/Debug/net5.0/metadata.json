@@ -1,0 +1,15 @@
+{
+  "name": "TestNFT",
+  "description": "TestNFTDescription",
+  "image": "image.url",
+  "attributes": [
+    {
+      "trait_type": "test1",
+      "value": "test1value"
+    },
+    {
+      "trait_type": "test2",
+      "value": "test2value"
+    }
+  ]
+}
