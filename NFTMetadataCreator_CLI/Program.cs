@@ -70,7 +70,7 @@ namespace NFTMetadataCreator_CLI
                             Environment.Exit(0);
                             break;     
                         
-                        case "--imageUri":
+                        case "--image-uri":
                         case "-i":
                             if (args.Length >= i + 2)
                             {
